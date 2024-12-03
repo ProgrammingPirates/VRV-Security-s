@@ -1,5 +1,3 @@
-
-
 # **Role-Based Access Control (RBAC) System**
 
 ## **Project Overview**
@@ -7,6 +5,29 @@
 This project demonstrates the implementation of an **Authentication**, **Authorization**, and **Role-Based Access Control (RBAC)** system. It ensures secure user authentication, role assignment, and access control to resources based on roles and permissions. The system is built with a focus on security best practices and modular design.
 
 ---
+
+
+
+### **Live Website**
+- [https://vrvsecurity-in.stackstaging.com](https://vrvsecurity-in.stackstaging.com/)
+
+## **Login Details**
+
+### **Admin Login**:
+- Username: `admin`
+- Password: `admin123`
+
+### **User Login**:
+- Username: `user`
+- Password: `user123`
+
+### **Moderator Login**:
+- Username: `moderator`
+- Password: `moderator@123`
+
+---
+
+********************
 
 ## **Features**
 
