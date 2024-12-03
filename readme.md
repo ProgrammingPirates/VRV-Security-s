@@ -64,14 +64,20 @@ The system is designed with a modular and scalable architecture:
 
 ### **1. Registration and Login**
 - Register as a new user at `/register`.
+
+![alt text](image-6.png)
 - Login with your credentials at `/login` to receive an access token.
+
+![alt text](image-5.png)
 
 ### **2. Role Management**
 - Assign roles (Admin, User, Moderator) through the admin panel or API endpoints.
 
+![alt text](image-3.png)
+
 ### **3. Access Restricted Endpoints**
 - Access resources based on roles and permissions. Unauthorized users will receive a `403 Forbidden` response.
-
+![alt text](image-4.png)
 ---
 
 ## **API Endpoints**
@@ -103,7 +109,7 @@ The system is designed with a modular and scalable architecture:
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ProgrammingPirates/VRV-Security-s.git
    cd vrv
    ```
 
@@ -146,7 +152,15 @@ The system is designed with a modular and scalable architecture:
 
    This will start the server on `http://localhost:8000`.
 
+# Demo
 
+![alt text](image.png)
+
+
+![alt text](image-1.png)
+
+
+![alt text](image-2.png)
 
 ## **Dependencies**
 
