@@ -19,7 +19,7 @@ This project demonstrates the implementation of an **Authentication**, **Authori
 
 ### **User Login**:
 - Username: `user`
-- Password: `user123`
+- Password: `user1234`
 
 ### **Moderator Login**:
 - Username: `moderator`
